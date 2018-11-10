@@ -1,0 +1,19 @@
+Merchant	 GySs88Ir
+Merchant  	 5uBMabv8dC
+
+Test 		 KeyGySs88Ir
+Test 		 Salt5uBMabv8dC
+
+
+TEST CARD DETAIL :
+Card Type: Visa
+Card Name: Test
+Card Number: 4012001037141112
+Expiry Date : 05/20
+CVV : 123
+Card Type: Master
+Card Name: Test
+Card Number: 5123456789012346
+Expiry Date : 05/20
+
+
